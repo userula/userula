@@ -26,7 +26,7 @@
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java&labelColor=red)
 ![Spring](https://img.shields.io/badge/-Spring-green?style=flat-square&logo=Spring&labelColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring-lightgreen?style=flat-square&logo=SpringBoot&labelColor=lightgrey&logoColor=lightgreen)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-lightgreen?style=flat-square&logo=SpringBoot&labelColor=lightgrey&logoColor=lightgreen)
 ![Apache Maven](https://img.shields.io/badge/-Apache%20Maven-orange?style=flat-square&logo=ApacheMaven&labelColor=white&logoColor=red)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-A3863D?style=flat-square&logo=Hibernate&labelColor=grey)
 
