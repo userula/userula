@@ -3,7 +3,13 @@
 <a href="https://t.me/buzhbanov_u">
   <img align="left" alt="Telegram" width="22px" src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667">
 </a>
-<a href="https://discord.gg/v36E3cWx">
+<a href="mailto:ulan.buzhbanov620@gmail.com">
+	  <img align="left" alt="Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg">
+</a>
+<a href="https://t.me/buzhbanov_u">
+  <img align="left" alt="Telegram" width="22px" src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667">
+</a>
+<a href="Oscar_pvp#3986">
   <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/buzhbanov_u">
@@ -21,38 +27,39 @@
 
 **Back-end**
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java&labelColor=red)
+![Spring](https://img.shields.io/badge/-Spring-green?style=flat-square&logo=Spring&labelColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring-lightgreen?style=flat-square&logo=SpringBoot&labelColor=lightgrey&logoColor=lightgreen)
+![Apache Maven](https://img.shields.io/badge/-Apache%20Maven-orange?style=flat-square&logo=ApacheMaven&labelColor=white&logoColor=red)
+![Hibernate](https://img.shields.io/badge/-Hibernate-A3863D?style=flat-square&logo=Hibernate&labelColor=grey)
+
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python&labelColor=blue&logoColor=black)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
-![Django Channels](https://img.shields.io/badge/-Django_Channels-46a2f1?style=flat-square&logo=Django)
-![DCRF](https://img.shields.io/badge/-DCRF-46a2f1?style=flat-square&logo=Django)
 ![Django Ninja](https://img.shields.io/badge/-Django_Ninja-%234B32C3?style=flat-square&logo=Django)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
 ![Flask](https://img.shields.io/badge/-Flask-%232c3e50?style=flat-square&logo=Flask)
-![ORMAR](https://img.shields.io/badge/-ORMAR-DD0031?style=flat-square&logo=ORMAR)
-![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=flat-square&logo=SqlAlchemy)
 ![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
 
 **Databases**
 
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
-![Redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=Redis)
+![MySQL](https://img.shields.io/badge/-MySQL-FCA121?style=flat-square&logo=Mysql&labelColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-lightgreen?style=flat-square&logo=MongoDB&labelColor=grey)
+
 
 **Front-end**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vue-dot-js)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=whiter)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
 
 **Tools**
 
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-ffce5a?style=flat-square&logo=jetbrains)
-![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
+![PyCharm](https://img.shields.io/badge/-PyCharm-green?style=flat-square&logo=jetbrains)
+![Postman](https://img.shields.io/badge/-PyCharm-orange?style=flat-square&logo=Postman&labelColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
