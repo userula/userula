@@ -24,11 +24,8 @@
 
 **Back-end**
 
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java&labelColor=red)
-![Spring](https://img.shields.io/badge/-Spring-green?style=flat-square&logo=Spring&labelColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-lightgreen?style=flat-square&logo=SpringBoot&labelColor=lightgrey&logoColor=lightgreen)
-![Apache Maven](https://img.shields.io/badge/-Apache%20Maven-orange?style=flat-square&logo=ApacheMaven&labelColor=white&logoColor=red)
-![Hibernate](https://img.shields.io/badge/-Hibernate-A3863D?style=flat-square&logo=Hibernate&labelColor=grey)
+![Go](https://img.shields.io/badge/-Go-lightblue?style=flat-square&logo=Go&labelColor=white)
+![Fiber Framework](https://img.shields.io/badge/-GoFiber-grey?style=flat-square&logo=go&labelColor=white)
 
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python&labelColor=blue&logoColor=black)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
@@ -54,8 +51,8 @@
 **Tools**
 
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-ffce5a?style=flat-square&logo=jetbrains)
-![PyCharm](https://img.shields.io/badge/-PyCharm-green?style=flat-square&logo=jetbrains)
+![GoLand](https://img.shields.io/badge/-Goland-ffce5a?style=flat-square&logo=goland&labelColor=green)
+![PyCharm](https://img.shields.io/badge/-PyCharm-green?style=flat-square&logo=pycharm)
 ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=Postman&labelColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
